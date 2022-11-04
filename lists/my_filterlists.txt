@@ -3,7 +3,7 @@
 http://github.com/yokoffing/filterlists/blob/main/youtube_clear_view.txt
 http://github.com/easylist/easylist/master/easylist/easylist_adservers.txt
 http://github.com/easylist/easylist/master/easylist/easylist_adservers_popup.txt
-http://github.com/AdguardTeam/AdguardFilters/blob/master/AnnoyancesFilter/MobileApp/sections/mobile-app_general.txt
+http://github.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/MobileApp/sections/mobile-app_general.txt
 
 # The following line doesn't work, only put either a comment or an URL in one line, not both
 http://  # Invalid comment on URL

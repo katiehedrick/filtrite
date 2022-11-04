@@ -3,6 +3,8 @@
 http://github.com/yokoffing/filterlists/blob/main/youtube_clear_view.txt
 http://github.com/easylist/easylist/master/easylist/easylist_adservers.txt
 http://github.com/easylist/easylist/master/easylist/easylist_adservers_popup.txt
+https://gitlab.com/malware-filter/phishing-filter#url-based-adguard
+https://gitlab.com/eyeo/filterlists/subscriptionlist/-/blob/master/Malware%20Domains.subscription
 
 # The following line doesn't work, only put either a comment or an URL in one line, not both
 http://  # Invalid comment on URL

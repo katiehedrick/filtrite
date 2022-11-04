@@ -1,14 +1,13 @@
 # Lines starting with # are ignored, empty lines are also allowed
 # List one URL per line:
 http://github.com/yokoffing/filterlists/blob/main/youtube_clear_view.txt
-https://github.com/easylist/easylist/tree/master/easylist_cookie
-https://github.com/easylist/easylist/blob/master/easylist/easylist_adservers.txt
-https://github.com/easylist/easylist/blob/master/easylist/easylist_adservers_popup.txt
-https://github.com/yokoffing/filterlists/blob/main/annoyance_list.txt
-https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Popups/sections/antiadblock.txt
-https://github.com/AdguardTeam/AdguardFilters/blob/master/SpywareFilter/sections/mobile.txt
-https://github.com/MDP43140/NoTrash-PureClean-YT/blob/main/Extensions/YTMobileWeb.txt
-https://github.com/touhidurrr/iplist-youtube/blob/main/ipv4_list.txt
+http://github.com/easylist/easylist/blob/master/easylist/easylist_adservers.txt
+http://github.com/easylist/easylist/blob/master/easylist/easylist_adservers_popup.txt
+https://github.com/AdguardTeam/AdguardFilters/blob/master/AnnoyancesFilter/MobileApp/sections/mobile-app_general.txt
+http://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Popups/sections/antiadblock.txt
+http://github.com/AdguardTeam/AdguardFilters/blob/master/SpywareFilter/sections/mobile.txt
+http://github.com/MDP43140/NoTrash-PureClean-YT/blob/main/Extensions/YTMobileWeb.txt
+http://github.com/touhidurrr/iplist-youtube/blob/main/ipv4_list.txt
 
 # The following line doesn't work, only put either a comment or an URL in one line, not both
 http://  # Invalid comment on URL

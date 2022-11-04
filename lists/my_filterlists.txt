@@ -1,14 +1,14 @@
 # Lines starting with # are ignored, empty lines are also allowed
 # List one URL per line:
-gist.github.com/yonaikerlol/5d41c69f6163c293a573ae4a3e109018
-github.com/yokoffing/filterlists/blob/main/youtube_clear_view.txt
-secure.fanboy.co.nz/fanboy-cookiemonster.txt%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1667587529046670%26amp;usg%3DAOvVaw3zd9KKPhw9-N_xZnu6Co4g&sa=D&source=docs&ust=1667587529058623&usg=AOvVaw2fdCNLqEv6fPkyz2tcLEJl
-secure.fanboy.co.nz/fanboy-annoyance.txt%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1667587529047182%26amp;usg%3DAOvVaw1JZvPn7lC1MHX8hJ0w0Rtt&sa=D&source=docs&ust=1667587529058706&usg=AOvVaw358KHzIrg1JvNdCIYmYx1-
-github.com/easylist/easylist/tree/master/easylist%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1667587529047576%26amp;usg%3DAOvVaw2_WS9GgpUclhQxF124PCz7&sa=D&source=docs&ust=1667587529058789&usg=AOvVaw1CrhgW8SQH9iEqyCtaLdiA
-malware-filter.gitlab.io/malware-filter/phishing-filter.txt%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1667587529047909%26amp;usg%3DAOvVaw1yUMX4uJ2e7eFm7LnaxdrD&sa=D&source=docs&ust=1667587529058867&usg=AOvVaw2erwobzHfqdQVmuOcFFUwg
-malware-filter.gitlab.io/malware-filter/pup-filter.txt%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1667587529048320%26amp;usg%3DAOvVaw2N_O6HvgA3r_XIhs4Hp7a-&sa=D&source=docs&ust=1667587529058946&usg=AOvVaw2SDR0hObh1-jU4n7b5SMnw
-github.com/uBlockOrigin/uAssets/blob/master/filters/badware.txt%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1667587529048821%26amp;usg%3DAOvVaw0YYAEx5bP_0ajlaJqtdS5S&sa=D&source=docs&ust=1667587529059025&usg=AOvVaw3ZZZ8gQBPIYyiw-afxQ07Y
-raw.githubusercontent.com/Karmesinrot/Anifiltrs/master/Anifiltrs%252520Main/Anifiltrs%252520extra-main.txt%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1667587529049419%26amp;usg%3DAOvVaw3CJ3ehl594Q7JUwdHyE7JK&sa=D&source=docs&ust=1667587529059110&usg=AOvVaw0rhPtcmIAZlV9nUwHUhiiE
+http://gist.github.com/yonaikerlol/5d41c69f6163c293a573ae4a3e109018
+http://github.com/yokoffing/filterlists/blob/main/youtube_clear_view.txt
+http://secure.fanboy.co.nz/fanboy-cookiemonster.txt%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1667587529046670%26amp;usg%3DAOvVaw3zd9KKPhw9-N_xZnu6Co4g&sa=D&source=docs&ust=1667587529058623&usg=AOvVaw2fdCNLqEv6fPkyz2tcLEJl
+http://secure.fanboy.co.nz/fanboy-annoyance.txt%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1667587529047182%26amp;usg%3DAOvVaw1JZvPn7lC1MHX8hJ0w0Rtt&sa=D&source=docs&ust=1667587529058706&usg=AOvVaw358KHzIrg1JvNdCIYmYx1-
+http://github.com/easylist/easylist/tree/master/easylist%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1667587529047576%26amp;usg%3DAOvVaw2_WS9GgpUclhQxF124PCz7&sa=D&source=docs&ust=1667587529058789&usg=AOvVaw1CrhgW8SQH9iEqyCtaLdiA
+http://malware-filter.gitlab.io/malware-filter/phishing-filter.txt%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1667587529047909%26amp;usg%3DAOvVaw1yUMX4uJ2e7eFm7LnaxdrD&sa=D&source=docs&ust=1667587529058867&usg=AOvVaw2erwobzHfqdQVmuOcFFUwg
+http://malware-filter.gitlab.io/malware-filter/pup-filter.txt%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1667587529048320%26amp;usg%3DAOvVaw2N_O6HvgA3r_XIhs4Hp7a-&sa=D&source=docs&ust=1667587529058946&usg=AOvVaw2SDR0hObh1-jU4n7b5SMnw
+http://github.com/uBlockOrigin/uAssets/blob/master/filters/badware.txt%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1667587529048821%26amp;usg%3DAOvVaw0YYAEx5bP_0ajlaJqtdS5S&sa=D&source=docs&ust=1667587529059025&usg=AOvVaw3ZZZ8gQBPIYyiw-afxQ07Y
+http://raw.githubusercontent.com/Karmesinrot/Anifiltrs/master/Anifiltrs%252520Main/Anifiltrs%252520extra-main.txt%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1667587529049419%26amp;usg%3DAOvVaw3CJ3ehl594Q7JUwdHyE7JK&sa=D&source=docs&ust=1667587529059110&usg=AOvVaw0rhPtcmIAZlV9nUwHUhiiE
 
 # The following line doesn't work, only put either a comment or an URL in one line, not both
 http://  # Invalid comment on URL

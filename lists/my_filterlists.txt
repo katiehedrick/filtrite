@@ -3,9 +3,8 @@
 http://github.com/yokoffing/filterlists/blob/main/youtube_clear_view.txt
 http://github.com/easylist/easylist/blob/master/easylist/easylist_adservers.txt
 http://github.com/easylist/easylist/blob/master/easylist/easylist_adservers_popup.txt
-https://github.com/AdguardTeam/AdguardFilters/blob/master/AnnoyancesFilter/MobileApp/sections/mobile-app_general.txt
-http://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Popups/sections/antiadblock.txt
-http://github.com/AdguardTeam/AdguardFilters/blob/master/SpywareFilter/sections/mobile.txt
+http://github.com/AdguardTeam/AdguardFilters/blob/master/AnnoyancesFilter/MobileApp/sections/mobile-app_general.txt
+http://github.com/AdguardTeam/AdguardFilters/blob/master/AnnoyancesFilter/Popups/sections/antiadblock.txt
 http://github.com/MDP43140/NoTrash-PureClean-YT/blob/main/Extensions/YTMobileWeb.txt
 http://github.com/touhidurrr/iplist-youtube/blob/main/ipv4_list.txt
 

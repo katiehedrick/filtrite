@@ -1,6 +1,5 @@
 # Lines starting with # are ignored, empty lines are also allowed
 # List one URL per line:
-http://github.com/yokoffing/filterlists/blob/main/youtube_clear_view.txt
 http://github.com/easylist/easylist/master/easylist/easylist_adservers.txt
 http://github.com/easylist/easylist/master/easylist/easylist_adservers_popup.txt
 https://gitlab.com/malware-filter/phishing-filter#url-based-adguard

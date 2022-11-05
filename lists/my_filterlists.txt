@@ -2,9 +2,9 @@
 # List one URL per line:
 http://github.com/easylist/easylist/master/easylist/easylist_adservers.txt
 http://github.com/easylist/easylist/master/easylist/easylist_adservers_popup.txt
-https://gitlab.com/malware-filter/phishing-filter#url-based-adguard
-https://gitlab.com/eyeo/filterlists/subscriptionlist/-/blob/master/Adware%20filters.subscription
-https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-YouTube-AdBlock-Filter.txt
+http://gitlab.com/malware-filter/phishing-filter#url-based-adguard
+http://gitlab.com/eyeo/filterlists/subscriptionlist/-/blob/master/Adware%20filters.subscription
+http://gist.github.com/yonaikerlol/5d41c69f6163c293a573ae4a3e109018#file-youtube-block-ads-txt
 
 # The following line doesn't work, only put either a comment or an URL in one line, not both
 http://  # Invalid comment on URL

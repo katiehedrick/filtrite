@@ -1,7 +1,7 @@
 # Lines starting with # are ignored, empty lines are also allowed
 # List one URL per line:
 http://github.com/easylist/easylist/master/easylist/easylist_adservers.txt
-https://github.com/easylist/easylist/blob/master/easylist/easylist_allowlist_general_hide.txt
+https://github.com/easylist/easylist/blob/master/easylist/easylist_allowlist.txt
 http://github.com/easylist/easylist/master/easylist/easylist_adservers_popup.txt
 http://gitlab.com/malware-filter/phishing-filter#url-based-adguard
 http://gitlab.com/eyeo/filterlists/subscriptionlist/-/blob/master/Adware%20filters.subscription

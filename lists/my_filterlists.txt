@@ -5,6 +5,8 @@ http://github.com/easylist/easylist/blob/master/easylist/easylist_allowlist.txt
 http://github.com/easylist/easylist/master/easylist/easylist_adservers_popup.txt
 http://github.com/easylist/easylist/blob/master/easylist/easylist_allowlist_popup.txt
 http://gitlab.com/malware-filter/phishing-filter#url-based-adguard
+https://github.com/easylist/easylist/blob/master/fanboy-addon/fanboy_annoyance_general_block.txt
+https://github.com/easylist/easylist/blob/master/fanboy-addon/fanboy_annoyance_allowlist.txt
 http://gitlab.com/eyeo/filterlists/subscriptionlist/-/blob/master/Adware%20filters.subscription
 
 # The following line doesn't work, only put either a comment or an URL in one line, not both

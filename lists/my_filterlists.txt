@@ -5,7 +5,7 @@ https://github.com/easylist/easylist/master/easylist/easylist_allowlist.txt
 https://github.com/easylist/easylist/blob/master/easylist/easylist_adservers_popup.txt
 https://gitlab.com/malware-filter/phishing-filter#url-based-adguard
 https://github.com/easylist/easylist/blob/master/fanboy-addon/fanboy_annoyance_general_block.txt
-https://gitlab.com/eyeo/filterlists/subscriptionlist/-/blob/master/Adware%20filters.subscription
+https://mkb2091.github.io/blockconvert/output/adblock.txt
 
 # The following line doesn't work, only put either a comment or an URL in one line, not both
 http://  # Invalid comment on URL
